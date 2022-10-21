@@ -1,0 +1,152 @@
+div.right
+{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+div.left
+{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+header
+{
+background-color: rgba(239, 239, 239, 0.897);
+}
+select
+{
+ border-radius: 10px;
+margin-left:200px;
+width:200px;
+height:50px;
+
+
+}
+select.Model
+{
+ border-radius: 10px;
+margin-left:20px;
+width:200px;
+height:50px;
+}
+div.button
+{
+
+    
+    display:inline;
+    margin-left:10px;
+  text-align: center;
+    cursor: pointer;
+}
+div.button:active
+{
+    background-color:  brown;
+}
+select.Seher
+{
+    margin-left: 10px;
+    width:200px;
+}
+div.elan
+{
+    margin-left:200px;
+}
+
+main
+{
+background-color: rgb(223, 228, 228);
+width:100hv;
+height:200vh;
+}
+.back-color-vip
+{
+    margin-left:200px;
+    
+}
+
+
+p
+{
+    
+    color:black;
+    text-decoration: none;
+}
+
+
+div.car1,div.car2,div.car3,div.car4
+ {
+    
+    display: inline-block;
+    border:1px solid rgb(142, 139, 139);
+    border-radius: 10px;
+    background-color: rgb(240, 236, 236);
+    
+  }
+  
+  img.car1,img.car2,img.car3,img.car4
+  {
+    border-radius: 10px;
+    width:200px;
+    height:200px;
+
+  }
+  
+.firstline
+{
+    margin-left: 170px;
+}
+.secondline
+{
+    margin-left: 170px;
+  margin-top: 20px;
+}
+  a
+  {
+    text-decoration: none;
+  }
+  div.car5,div.car6,div.car7,div.car8
+ {
+    display: inline-block;
+    border:1px solid rgb(142, 139, 139);
+    border-radius: 10px;
+    background-color: rgb(240, 236, 236);
+    
+  }
+  
+  img.car5,img.car6,img.car7,img.car8
+  {
+    border-radius: 10px;
+    width:200px;
+    height:200px;
+
+  }
+  div.car1:hover,div.car2:hover,div.car3:hover,div.car4:hover,div.car5:hover,div.car6:hover,div.car7:hover,div.car8:hover
+  {
+box-shadow: 8px 8px 8px 1px #969696;
+  }
+  
+  i
+  {
+    position: relative;
+    right: 0;
+    bottom: 0;
+  }
+  p.cars{
+   
+    position: relative;
+    margin-top: -30px;
+    margin-left: 10px;
+    display: block;
+    border:1px solid blue;
+    border-radius: 6px;
+    width:50px ;
+    height: 18px;
+    background-color: blue;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+  
+    
+  }
+  
